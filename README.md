@@ -1,6 +1,7 @@
 # HandGesture-Brightness
 A Python-based hand gesture recognition system that dynamically controls screen brightness using OpenCV, Mediapipe, and Screen Brightness Control (SBC). The script detects the distance between the thumb and index finger to adjust brightness levels intuitively.
 
+
 **🚀 Features**
 
 🎥 Real-time hand tracking using Mediapipe
@@ -12,6 +13,7 @@ A Python-based hand gesture recognition system that dynamically controls screen 
 🖥️ Works on Windows, macOS, and Linux
 
 ⏹️ Simple & intuitive UI with visual markers
+
 
 **📌 How It Works**
 
@@ -29,6 +31,7 @@ The brightness is dynamically updated in real-time.
 
 Press 'q' to exit the program.
 
+
 **📦 Installation**
 
 🔹 Prerequisites
@@ -36,6 +39,7 @@ Press 'q' to exit the program.
 Ensure you have Python 3.7+ installed. Then, install the required dependencies:
 
 _pip install opencv-python mediapipe numpy screen-brightness-control_
+
 
 **▶️ Usage**
 
@@ -45,10 +49,6 @@ _python hand_brightness_control.py_
 
 Now, control your screen brightness using your hand gestures! ✋💡
 
-**🛠️ Project Structure**
-📂 HandGesture-Brightness
-│── hand_brightness_control.py   # Main script
-│── README.md                    # Project documentation
 
 **🏗️ Future Enhancements**
 
@@ -57,6 +57,7 @@ Now, control your screen brightness using your hand gestures! ✋💡
 ✅ Implement gesture-based volume control
 
 ✅ Add an on-screen brightness indicator
+
 
 **📜 License**
 
